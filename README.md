@@ -211,6 +211,3 @@ Week-2-Cybersecurity-Project/
     └── pm5-topology.pdf
 ```
 
-*Add only the evidence files that are actually included in the
-repository. Update screenshot filenames in this README if different
-names are used.*
